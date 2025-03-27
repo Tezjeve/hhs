@@ -6,7 +6,7 @@ namespace L_C_G_F {
     //% blockHidden=true
     //% word.fieldEditor="textdropdown"
     //% word.fieldOptions.decompileLiterals=true
-    //% word.fieldOptions.values='.fl,.glf,.gf'
+    //% word.fieldOptions.values='.fl, .glf, .gf'
     //% word.defl='.gf'
     export function __wordPicker(word: string): string {
         return word;
