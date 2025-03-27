@@ -13,6 +13,7 @@ namespace L_C_G_F {
     }
 
     //% block="Create New File-Name: $name Id: $id Type: $word"
+    //% blockId=New_File_Info
     //% word.shadow="wordPicker"
     export function New_File_Info(name: string, id: number, word: string) {
 
